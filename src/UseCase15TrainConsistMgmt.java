@@ -52,8 +52,7 @@ public class UseCase15TrainConsistMgmt {
 
         // Unsafe assignment
         GoodsBogie rectangular = new GoodsBogie("Rectangular");
-        rectangular.assignCargo("Pgit add .\n" +
-                "git commit -m \"etroleum");
+        rectangular.assignCargo("Petroleum");
 
         System.out.println("\nUC15 runtime handling completed...");
     }
